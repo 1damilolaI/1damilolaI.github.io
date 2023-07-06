@@ -44,12 +44,22 @@ footer {
   text-align: center;
 }
 
+
+.nav-link {
+  color: #F7F5F5;
+}
+
+
 #navigation-bar {
   font-family: Bacasime Antique;
   background-color: #333;
   
 }
 
-.nav-link {
-  color: #F7F5F5;
+
+#picture {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
