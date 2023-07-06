@@ -8,8 +8,11 @@ body {
 #name {
   font-family: Bacasime Antique;
   font-weight: 100;
+  font-size: large;
 }
 
 #navigation-bar {
   font-family: Bacasime Antique;
+  background-color: #333;
+  color: #F7F5F5;
 }
