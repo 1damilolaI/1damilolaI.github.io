@@ -33,14 +33,13 @@ h2 {
   margin-bottom: 20px;
 }
 
-a {
+nav ul li a {
   color: #fff;
-  font-size: large;
+  text-decoration: none;
 }
 
-a:hover{
-  background-color: #f2f2f2;
-  color: #333;
+nav ul li a:hover {
+  text-decoration: underline;
 }
 
 footer {
