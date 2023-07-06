@@ -59,9 +59,6 @@ footer {
 }
 
 
-/* #picture {
-  background: #ffffff;
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
-} */
+.hero-content{
+  text-align: center;
+}
