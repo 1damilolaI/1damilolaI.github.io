@@ -35,6 +35,12 @@ h2 {
 
 a {
   color: #fff;
+  font-size: large;
+}
+
+a:hover{
+  background-color: #f2f2f2;
+  color: #333;
 }
 
 footer {
@@ -44,10 +50,6 @@ footer {
   text-align: center;
 }
 
-
-.nav-link {
-  color: #F7F5F5;
-}
 
 
 #navigation-bar {
