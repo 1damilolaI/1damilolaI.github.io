@@ -1,4 +1,14 @@
 body {
   margin-left: 100px;
-  margin-right: 100px
+  margin-right: 100px;
+}
+
+
+#name {
+  font-family: cursive;
+  font-weight: 100;
+}
+
+#navigation-bar {
+  font-family: cursive;
 }
